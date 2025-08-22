@@ -60,7 +60,7 @@ Buttons: Return, Close
 ### 📊 Issue & Return Details  
 Tabular display of issued and returned books  
 Sortable columns and Close button  
-![Issue & Return Details](statistic.png)
+![Issue & Return Details](statistics.png)
 
 
 ## ⚙️ Setup Instructions
