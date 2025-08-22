@@ -1,10 +1,10 @@
-# 📚 Library Management System:
+# 📚 Library Management System
 
 A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, designed to simplify and automate library operations such as book issuance, returns, and student record management.
 
 
 
-## ✨ Key Features:
+## ✨ Key Features
 
 - 🔐 Secure Login – Authenticated access for system users  
 - 👨‍🎓 Student Registration – Add and manage student profiles  
@@ -17,7 +17,7 @@ A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, d
 
 
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
 - **Frontend**: Java Swing  
 - **Backend**: Java (NetBeans IDE)  
@@ -26,38 +26,44 @@ A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, d
 
 
 
-## 🖼️ Module Overview:
+## 🖼️ Module Overview
 
 ### 🔐 Login Interface  
-Secure login screen with username/password fields and a padlock icon. Background image of bookshelves adds thematic depth.There is authentication of admin is done.
+Secure login screen with username/password fields and a padlock icon.  
+![Login Interface](screenshots/login.jpeg)
 
 ### 🏠 Main Dashboard  
-Six core modules: New Student, New Book, Statistics, Issue Book, Return Book, Exit. Icon-based navigation with a library-themed background.
+Six core modules: New Student, New Book, Statistics, Issue Book, Return Book, Exit.  
+![Main Dashboard](screenshots/dashboard.jpeg)
 
 ### 🧑‍🎓 New Student Registration  
 Fields: Student ID, Name, Father's Name  
 Dropdowns: Course, Branch  
-Buttons: Save, Close
+Buttons: Save, Close  
+![New Student](screenshots/new_student.png)
 
 ### 📚 New Book Entry  
 Fields: Book ID, Name, Publisher, Price, Year  
-Buttons: Save, Close
+Buttons: Save, Close  
+![New Book](screenshots/new_book.png)
 
 ### 📕 Issue Book  
 Fields: Book ID, Student ID, Issue Date, Due Date  
-Buttons: Issue, Close
+Buttons: Issue, Close  
+![Issue Book](screenshots/issue_book.png)
 
 ### 📗 Return Book  
 Search by Book ID and Student ID  
-Buttons: Return, Close
+Buttons: Return, Close  
+![Return Book](screenshots/return_book.png)
 
 ### 📊 Issue & Return Details  
 Tabular display of issued and returned books  
-Sortable columns and Close button
+Sortable columns and Close button  
+![Issue & Return Details](screenshots/issue_return_details.png)
 
 
-
-## ⚙️ Setup Instructions:
+## ⚙️ Setup Instructions
 
 1. Clone the repository:
    ```bash
@@ -78,9 +84,11 @@ Sortable columns and Close button
 6. Build and run the project from NetBeans
 
 
-## 📌 Notes:
+
+## 📌 Notes
 
 This project is extendable with features like:
+- Admin authentication  
 - Fine calculation for overdue books  
 - Book availability tracking  
 - Email notifications  
