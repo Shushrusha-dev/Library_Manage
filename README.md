@@ -40,12 +40,12 @@ Six core modules: New Student, New Book, Statistics, Issue Book, Return Book, Ex
 Fields: Student ID, Name, Father's Name  
 Dropdowns: Course, Branch  
 Buttons: Save, Close  
-![New Student](studentInfo.png)
+![New Student](studentSave.png)
 
 ### 📚 New Book Entry  
 Fields: Book ID, Name, Publisher, Price, Year  
 Buttons: Save, Close  
-![New Book](bookInfo.png)
+![New Book](booklnfo.png)
 
 ### 📕 Issue Book  
 Fields: Book ID, Student ID, Issue Date, Due Date  
