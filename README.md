@@ -1,10 +1,10 @@
-# 📚 Library Management System
+# 📚 Library Management System:
 
 A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, designed to simplify and automate library operations such as book issuance, returns, and student record management.
 
 
 
-## ✨ Key Features
+## ✨ Key Features:
 
 - 🔐 Secure Login – Authenticated access for system users  
 - 👨‍🎓 Student Registration – Add and manage student profiles  
@@ -17,7 +17,7 @@ A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, d
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 - **Frontend**: Java Swing  
 - **Backend**: Java (NetBeans IDE)  
@@ -26,10 +26,10 @@ A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, d
 
 
 
-## 🖼️ Module Overview
+## 🖼️ Module Overview:
 
 ### 🔐 Login Interface  
-Secure login screen with username/password fields and a padlock icon. Background image of bookshelves adds thematic depth.
+Secure login screen with username/password fields and a padlock icon. Background image of bookshelves adds thematic depth.There is authentication of admin is done.
 
 ### 🏠 Main Dashboard  
 Six core modules: New Student, New Book, Statistics, Issue Book, Return Book, Exit. Icon-based navigation with a library-themed background.
@@ -57,7 +57,7 @@ Sortable columns and Close button
 
 
 
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions:
 
 1. Clone the repository:
    ```bash
@@ -78,10 +78,9 @@ Sortable columns and Close button
 6. Build and run the project from NetBeans
 
 
-## 📌 Notes
+## 📌 Notes:
 
 This project is extendable with features like:
-- Admin authentication  
 - Fine calculation for overdue books  
 - Book availability tracking  
 - Email notifications  
