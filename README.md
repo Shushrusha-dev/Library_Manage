@@ -30,37 +30,37 @@ A robust desktop application built with **Java (NetBeans IDE)** and **MySQL**, d
 
 ### 🔐 Login Interface  
 Secure login screen with username/password fields and a padlock icon.  
-![Login Interface](screenshots/login.jpeg)
+![Login Interface](login.png)
 
 ### 🏠 Main Dashboard  
 Six core modules: New Student, New Book, Statistics, Issue Book, Return Book, Exit.  
-![Main Dashboard](screenshots/dashboard.jpeg)
+![Main Dashboard](home.png)
 
 ### 🧑‍🎓 New Student Registration  
 Fields: Student ID, Name, Father's Name  
 Dropdowns: Course, Branch  
 Buttons: Save, Close  
-![New Student](screenshots/new_student.png)
+![New Student](studentInfo.png)
 
 ### 📚 New Book Entry  
 Fields: Book ID, Name, Publisher, Price, Year  
 Buttons: Save, Close  
-![New Book](screenshots/new_book.png)
+![New Book](bookInfo.png)
 
 ### 📕 Issue Book  
 Fields: Book ID, Student ID, Issue Date, Due Date  
 Buttons: Issue, Close  
-![Issue Book](screenshots/issue_book.png)
+![Issue Book](issue.png)
 
 ### 📗 Return Book  
 Search by Book ID and Student ID  
 Buttons: Return, Close  
-![Return Book](screenshots/return_book.png)
+![Return Book](return.png)
 
 ### 📊 Issue & Return Details  
 Tabular display of issued and returned books  
 Sortable columns and Close button  
-![Issue & Return Details](screenshots/issue_return_details.png)
+![Issue & Return Details](statistic.png)
 
 
 ## ⚙️ Setup Instructions
